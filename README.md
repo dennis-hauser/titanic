@@ -24,5 +24,10 @@ The notebook is the foundation for answering some interesting questions.
 
 ### 4. Does the place of embarkment inﬂuence the chance for surviving the disaster?
 **YES** 
+- Surviving given beeing embarked at Cherbourg is at 55% and higher than the other two.
+
+> The passengers which embarked in Cherbourg are maybe in a area of higher income and therfore are more first class passengers which had a higher chance of survival
 
 ### 5. Do you think the age of a passenger has an inﬂuence on the chance for surviving the disaster?
+**YES**
+- Most of the elderly passengers didn't survive
